@@ -1,39 +1,39 @@
 
 
-#   EJERCICIO DÕA 3
+#   EJERCICIO D√çA 3
 
 
 #Paso 0. Instalar el paquete: ggplot2
 
 
 
-#Paso 1. Cargar las librerÌas: data.table, foreign, questionr, base, car y ggplot2
+#Paso 1. Cargar las librer√≠as: data.table, foreign, questionr, base, car, xlsx y ggplot2
     
 
 
-#Paso 2. Definir el directorio donde est· la base: BARANDILLA SEPTIEMBRE 2016 (051016 1031 MHT).xlsx
+#Paso 2. Definir el directorio donde est√° la base: BARANDILLA SEPTIEMBRE 2016 (051016 1031 MHT).xlsx
 #        OJO: Hay que utilizar \\ o /
 
 
 #Paso 3. Cargar la base de datos BARANDILLA SEPTIEMBRE 2016 (051016 1031 MHT).xlsx
-#        OJO: Poner atenciÛn al tipo de datos: excel 
+#        OJO: Poner atenci√≥n al tipo de datos: excel 
 #        OJO: El nombre de la base debe ser: BAR
 
 
 
-#Paso 4. Tabular la variable SEXO para ver cu·ntas categorÌas tiene
+#Paso 4. Tabular la variable SEXO para ver cu√°ntas categor√≠as tiene
 #         OJO: Debes indicar la base, el signo $ y el nombre de la variable. 
-#         Sugerencia: Usa la funciÛn "wtd.table"
+#         Sugerencia: Usa la funci√≥n "wtd.table"
 
 
 
-#Paso 5. Tabular la variable OFICINA para ver cu·ntas categorÌas tiene
+#Paso 5. Tabular la variable OFICINA para ver cu√°ntas categor√≠as tiene
 #         OJO: Debes indicar la base, el signo $ y el nombre de la variable. 
-#         Sugerencia: Usa la funciÛn "wtd.table"
+#         Sugerencia: Usa la funci√≥n "wtd.table"
 
 
 
 #Paso 6. Recodifica la variable SEXO 
 #         OJO: Debes indicar la base, el signo $ y el nombre de la variable. 
-#         Sugerencia: Usa la funciÛn "factor".
+#         Sugerencia: Usa la funci√≥n "factor".
 
