@@ -2,7 +2,7 @@
 
 **Julio César Martínez Sánchez**
 
-_Fecha: 16 y 17 de noviembre_
+_Fecha: 16, 17, 23 y 24 de noviembre_
 
 
 ##### TEMARIO
