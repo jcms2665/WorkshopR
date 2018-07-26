@@ -1,4 +1,4 @@
-# Taller de uso de los metadatos en R
+# Taller de R
 
 **Julio César Martínez Sánchez**
 
@@ -7,7 +7,7 @@ _Fecha: 16, 17, 23 y 24 de noviembre_
 
 ##### TEMARIO
 
-Día 1
+Módulo 1
 
 * Introducción a R
 * Uso de data.frames para el análisis de los datos
@@ -16,7 +16,7 @@ Día 1
 * Exportar bases de datos a Excel
 * Generación de tabulados básicos.
 
-Día 2
+Módulo 2
 
 * Diseño de bases de datos para la explotación estadística
 * Utilidad de los metadatos 
